@@ -9,7 +9,10 @@
 # Billy
 - https://learnpythonthehardway.org/
 - https://www.hackerrank.com/
-- other
+
+
+#Ariadna
+- https://www.edx.org/course/subject/computer-science/python
 
 #Luis
 - www.codigofacilito.com
@@ -21,6 +24,17 @@ http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
 # Ivan
 - http://levipy.com/crear-api-rest-con-django-rest-framework/
 
-#Juan Francisco
-- https://learn-anything.xyz/programming/programming-languages/python
-- https://developers.google.com/edu/python/
+# Renato
+- https://learnpythonthehardway.org/
+- https://www.hackerrank.com/
+- https://learnpythonthehardway.org/
+- https://www.hackerrank.com/
+
+# Bruna
+- https://www.w3schools.com/
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> ce3b65a0c3baf63d90c9e3e562acfb062a6f5d46
+>>>>>>> dfd31618309645f5c6a379a8576191b4e7e3b03e
