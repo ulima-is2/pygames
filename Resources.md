@@ -7,14 +7,19 @@
 -https://www.hackerrank.com/
 
 # Billy
-- https://learnpythonthehardway.org/
+- https://learnpythonthehardway.org
 - https://www.hackerrank.com/
 
+# Piero
+- http://programarcadegames.com/
+
+# Luis
+- www.codigofacilito.com
 
 # Ariadna
 - https://www.edx.org/course/subject/computer-science/python
 
-# Luis
+#Luis
 - www.codigofacilito.com
 - MI foto:
    http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg 
@@ -34,5 +39,3 @@
 
 # Bruna
 - https://www.w3schools.com/
-
->>>>>>> ce3b65a0c3baf63d90c9e3e562acfb062a6f5d46
