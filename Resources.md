@@ -47,3 +47,7 @@ http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
 
 <img src="http://imagenpng.com/wp-content/uploads/2015/03/corazon-roto-facebook-6.jpg" alt="Smiley face" height="42" width="42">
 =======
+
+#Dejala ir
+
+https://www.reddit.com/r/ShingekiNoKyojin/
