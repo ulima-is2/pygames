@@ -40,8 +40,6 @@ http://oliva.ulima.edu.pe/imagenes/fotos/198682.jpg
 # Bruna
 - https://www.w3schools.com/
 
-=======
-
 # Juan Francisco
 - https://learn-anything.xyz/programming/programming-languages/python
 - https://developers.google.com/edu/python/
@@ -49,7 +47,6 @@ http://oliva.ulima.edu.pe/imagenes/fotos/198682.jpg
 # Ale te extraño
 
 <img src="http://imagenpng.com/wp-content/uploads/2015/03/corazon-roto-facebook-6.jpg" alt="Smiley face" height="42" width="42">
-=======
 
 #Dejala ir
 
