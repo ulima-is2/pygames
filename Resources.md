@@ -1,11 +1,21 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Edwin
 - https://learnpythonthehardway.org/
 - https://www.hackerrank.com/
 =======
+#Walter
+
+- https://learnpythonthehardway.org/
+-https://www.hackerrank.com/
+>>>>>>> ec847b8229e129e9261b33e006676b38e9d54823
+=======
 # Billy
 - https://learnpythonthehardway.org/
 - https://www.hackerrank.com/
+<<<<<<< HEAD
+>>>>>>> 8561f880b5c8bae5122edcfc48465fa5bfa77f09
+=======
 
 # Ivan
 
