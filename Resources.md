@@ -36,7 +36,3 @@
 
 # Bruna
 - https://www.w3schools.com/
-
-# Juan Francisco
-- https://learn-anything.xyz/programming/programming-languages/python
-- https://developers.google.com/edu/python/
