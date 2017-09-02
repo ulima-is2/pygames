@@ -25,3 +25,6 @@
 - https://www.hackerrank.com/
 - https://learnpythonthehardway.org/
 - https://www.hackerrank.com/
+
+#Bruna
+- https://www.w3schools.com/
