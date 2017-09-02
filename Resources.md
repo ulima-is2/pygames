@@ -7,9 +7,14 @@
 -https://www.hackerrank.com/
 
 # Billy
-- https://learnpythonthehardway.org/
+- https://learnpythonthehardway.org
 - https://www.hackerrank.com/
 
+# Piero
+- http://programarcadegames.com/
+
+# Luis
+- www.codigofacilito.com
 
 # Ariadna
 - https://www.edx.org/course/subject/computer-science/python
