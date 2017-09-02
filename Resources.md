@@ -13,7 +13,8 @@
 
 # Luis
 - www.codigofacilito.com
-
+- MI foto:
+http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg 
 
 # Mitchelli
 
@@ -25,3 +26,6 @@
 - https://www.hackerrank.com/
 - https://learnpythonthehardway.org/
 - https://www.hackerrank.com/
+
+# Bruna
+- https://www.w3schools.com/
