@@ -20,7 +20,7 @@
 # Ivan
 - http://levipy.com/crear-api-rest-con-django-rest-framework/
 
-# Judas Aplastado
+# Renato
 - https://learnpythonthehardway.org/
 - https://www.hackerrank.com/
 - https://learnpythonthehardway.org/
