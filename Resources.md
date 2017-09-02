@@ -16,6 +16,12 @@
 
 # Luis
 - www.codigofacilito.com
+<<<<<<< HEAD
+=======
+
+# Luis
+- www.codigofacilito.com
+>>>>>>> 92bf348369deb5cec346a9611ba4952fd30fbeb7
  <img src="http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg" alt="Smiley face" height="42" width="42">
 
 #Luis
@@ -33,3 +39,7 @@
 
 # Bruna
 - https://www.w3schools.com/
+
+# Juan Francisco
+- https://learn-anything.xyz/programming/programming-languages/python
+- https://developers.google.com/edu/python/
