@@ -11,7 +11,7 @@
 - https://learnpythonthehardway.org
 - https://www.hackerrank.com/
 
-# Piero
+# Alejandra
 - http://programarcadegames.com/
 
 # Luis
