@@ -20,6 +20,9 @@
 - MI foto:
 http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
 
+- otra pose:
+http://oliva.ulima.edu.pe/imagenes/fotos/198682.jpg
+
 # Mitchelli
 - https://www.datacamp.com/
 - https://cognitiveclass.ai/courses/data-science-101/
