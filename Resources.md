@@ -32,3 +32,7 @@ http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
 
 # Bruna
 - https://www.w3schools.com/
+
+# Juan Francisco
+- https://learn-anything.xyz/programming/programming-languages/python
+- https://developers.google.com/edu/python/
