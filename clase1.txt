@@ -1,0 +1,12 @@
+<usando git bash>
+git clone https://github.com/ulima-is2/pygames
+git config --global user.name [SuNombre]
+git config --global user.email [Email]
+cd pygames
+git pull
+<modificar archivo resources.md>
+git add .
+git commit -m "suNombre"
+git push
+<ingresar usuario de github>
+<conflict -> llamar al profesor>
