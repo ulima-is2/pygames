@@ -11,7 +11,7 @@
 - https://www.hackerrank.com/
 
 
-#Ariadna
+# Ariadna
 - https://www.edx.org/course/subject/computer-science/python
 
 #Luis
@@ -32,9 +32,3 @@ http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
 
 # Bruna
 - https://www.w3schools.com/
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> ce3b65a0c3baf63d90c9e3e562acfb062a6f5d46
->>>>>>> dfd31618309645f5c6a379a8576191b4e7e3b03e
