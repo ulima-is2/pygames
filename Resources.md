@@ -11,7 +11,7 @@
 - https://www.hackerrank.com/
 - other
 
-# Luis
+#Luis
 - www.codigofacilito.com
 
 
@@ -20,8 +20,6 @@
 # Ivan
 - http://levipy.com/crear-api-rest-con-django-rest-framework/
 
-# Judas Aplastado
-- https://learnpythonthehardway.org/
-- https://www.hackerrank.com/
-- https://learnpythonthehardway.org/
-- https://www.hackerrank.com/
+#Juan Francisco
+- https://learn-anything.xyz/programming/programming-languages/python
+- https://developers.google.com/edu/python/
