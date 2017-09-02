@@ -4,7 +4,7 @@
 - https://learnpythonthehardway.org/
 - https://www.hackerrank.com/
 =======
-#Walter
+# Walter
 
 - https://learnpythonthehardway.org/
 -https://www.hackerrank.com/
@@ -31,3 +31,4 @@
 
 - http://levipy.com/crear-api-rest-con-django-rest-framework/
 >>>>>>> 9589656039741906a8e6e346be744b75d095ebb9
+ 
