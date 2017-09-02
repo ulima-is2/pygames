@@ -11,10 +11,7 @@
 - https://www.hackerrank.com/
 
 
-# Ariadna
-- https://www.edx.org/course/subject/computer-science/python
-
-#Luis
+# Luis
 - www.codigofacilito.com
 - MI foto:
 http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
