@@ -1,4 +1,4 @@
-
+﻿
 # Edwin
 - https://learnpythonthehardway.org/
 - https://www.hackerrank.com/
@@ -42,3 +42,4 @@
 
 # Ale te extraño
 >>>>>>> ce10e8bf1a28c47990457bf0b4fec090ce0790cf
+<img src="http://imagenpng.com/wp-content/uploads/2015/03/corazon-roto-facebook-6.jpg" alt="Smiley face" height="42" width="42">
