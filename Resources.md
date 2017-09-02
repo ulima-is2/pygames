@@ -9,12 +9,21 @@
 # Billy
 - https://learnpythonthehardway.org/
 - https://www.hackerrank.com/
+
+
+#Ariadna
+-https://www.edx.org/course/subject/computer-science/python
+=======
+
+=======
+
+=======
 - other
 
 # Luis
 - www.codigofacilito.com
 - MI foto:
-http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg 
+http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
 
 # Mitchelli
 
@@ -29,3 +38,6 @@ http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
 
 # Bruna
 - https://www.w3schools.com/
+<<<<<<< HEAD
+=======
+>>>>>>> a8dc778b6758729562ae323b7c297cb6d2fa10c6
