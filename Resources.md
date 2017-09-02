@@ -11,7 +11,7 @@
 - https://www.hackerrank.com/
 
 
-#Ariadna
+# Ariadna
 - https://www.edx.org/course/subject/computer-science/python
 
 # Luis
@@ -22,10 +22,7 @@ http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
 # Mitchelli
 
 # Ivan
-<<<<<<< HEAD
 
-=======
->>>>>>> ce3b65a0c3baf63d90c9e3e562acfb062a6f5d46
 - http://levipy.com/crear-api-rest-con-django-rest-framework/
 
 # Renato
@@ -36,9 +33,5 @@ http://oliva.ulima.edu.pe/imagenes/fotos/198669.jpg
 
 # Bruna
 - https://www.w3schools.com/
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> a8dc778b6758729562ae323b7c297cb6d2fa10c6
+
 >>>>>>> ce3b65a0c3baf63d90c9e3e562acfb062a6f5d46
