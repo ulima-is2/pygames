@@ -1,6 +1,6 @@
-#Billy
+# Billy
 - https://learnpythonthehardway.org
 - https://www.hackerrank.com/
 
-#Piero
+# Piero
 - http://programarcadegames.com/
