@@ -16,8 +16,17 @@
 <<<<<<< HEAD
 >>>>>>> 8561f880b5c8bae5122edcfc48465fa5bfa77f09
 =======
+<<<<<<< HEAD
 #Luis
 - www.codigofacilito.com
+=======
+
+<<<<<<< HEAD
+# Mitchelli
+
+
+=======
+>>>>>>> 2437906a5c1df39a84aa6495bf82b08092afba1a
 # Ivan
 
 - http://levipy.com/crear-api-rest-con-django-rest-framework/
