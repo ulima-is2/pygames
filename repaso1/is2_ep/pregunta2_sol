@@ -1,0 +1,30 @@
+import sys
+import srx
+import pp
+
+class SensorFactory:
+    def obtener_adapter(self, tipo):
+        if tipo == 'SRX77':
+            return SRXAdapter()
+        elif tipo == 'PP876':
+            return PPAdapter()
+        else:
+            None
+
+class SRXAdapter:
+    def obtener_humedad(self):
+        data = srx.obtain_data()
+        return data['humidity']
+
+class PPAdapter:
+    def obtener_humedad(self):
+        return pp.get_humidity()
+
+def main():
+    factory = SensorFactory()
+    adapter = factory.obtener_adapter(sys.argv[1])
+    humedad = adapter.obtener_humedad()
+    print('La humedad es %i' % humedad)
+
+if __name__ == '__main__':
+    main()
