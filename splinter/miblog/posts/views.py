@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from django.template import loader
 
-from models import Post
+from posts.models import Post
 
 def main(request):
     posts = Post.objects.all()
