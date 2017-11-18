@@ -1,0 +1,31 @@
+<html>
+<head>
+  <title>Mi blog - Página principal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" >
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+  <style>
+  .post {
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 1px solid #000000;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+  }
+  </style>
+</head>
+<body class="container">
+  <h1>Mi Blog</h1>
+  <h2>Mis publicaciones</h2>
+  <div>
+    {% for post in lista_posts %}
+      <div class="post">
+        <h3><a href="/posts/detalle/{{ post.id }}">{{ post.titulo }}</a></h3>
+        <a href="#">{{ post.get_categoria_display }}</a>
+      </div>
+    {% endfor %}
+  </div>
+
+</body>
+</html>

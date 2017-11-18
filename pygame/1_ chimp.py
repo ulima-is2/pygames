@@ -83,7 +83,7 @@ class Chimp(pygame.sprite.Sprite):
         screen = pygame.display.get_surface()
         self.area = screen.get_rect()
         self.rect.topleft = 10, 10
-        self.move = 9
+        self.move = [2,2]
         self.dizzy = 0
 
     def update(self):
@@ -95,12 +95,17 @@ class Chimp(pygame.sprite.Sprite):
 
     def _walk(self):
         "move the monkey across the screen, and turn at the ends"
-        newpos = self.rect.move((self.move, 0))
+        newpos = self.rect.move(self.move)
         if self.rect.left < self.area.left or \
             self.rect.right > self.area.right:
-            self.move = -self.move
-            newpos = self.rect.move((self.move, 0))
+            self.move[0] = -self.move[0]
+            newpos = self.rect.move(self.move)
             self.image = pygame.transform.flip(self.image, 1, 0)
+        if self.rect.top < self.area.top or \
+            self.rect.bottom > self.area.bottom:
+            self.move[1] = -self.move[1]
+            newpos = self.rect.move(self.move)
+            self.image = pygame.transform.flip(self.image, 0, 1)
         self.rect = newpos
 
     def _spin(self):
@@ -128,7 +133,7 @@ def main():
        a loop until the function returns."""
 #Initialize Everything
     pygame.init()
-    screen = pygame.display.set_mode((468, 60))
+    screen = pygame.display.set_mode((468, 120))
     pygame.display.set_caption('Monkey Fever')
     pygame.mouse.set_visible(0)
 
